@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-lab-branch"
+		},
+		"limkedservice2gh_credential": {
+			"value": ""
+		},
+		"limkedservice2gh_properties_typeProperties_username": {
+			"value": "qld6@cdc.gov"
+		}
+	}
+}
