@@ -1,0 +1,9 @@
+{
+	"name": "adf-lab-branch",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0413b5c4-9604-4632-8145-ad4d5b47f1c3",
+		"tenantId": "9ce70869-60db-44fd-abe8-d2767077fc8f"
+	}
+}
